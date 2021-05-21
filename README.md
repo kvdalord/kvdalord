@@ -1,3 +1,2 @@
   - 👋 Hi, I’m @kvdalord a back-end web developer.
   - 🌱 I’m currently learning PHP frameworks.
-  - 📫 You can contact me through my mail for inquiries (kv@fbi.systems).
