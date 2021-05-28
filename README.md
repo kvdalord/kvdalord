@@ -1,4 +1,4 @@
-## Hi! I’m KV, a front-end / back-end developer from The Hague, Netherlands.
+## Hi! I'm KV, a front / back-end Web developer from The Netherlands.
 
 - 🌱 I'm currently learning the MVC framework for PHP.
 
