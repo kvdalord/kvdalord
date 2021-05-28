@@ -1,6 +1,6 @@
 ## Hi! I'm KV, a front / back-end Web developer from The Netherlands.
 
-- 🌱 I'm currently learning the MVC framework for PHP.
+| 👨‍💻 I'm currently learning the MVC framework for PHP.
 
 ### I currently acknowledge the following languages:
 
